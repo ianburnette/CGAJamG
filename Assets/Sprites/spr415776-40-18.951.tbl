@@ -1,0 +1,9 @@
+sprite_map	spr415776-40-18.951.png	0	0	12	12	0	0
+
+sprite_1	-	0	sprite_map	1	-
+sprite_2	-	0	sprite_map	2	-
+sprite_3	-	0	sprite_map	3	-
+sprite_4	-	0	sprite_map	4	-
+
+sprite	sprite_1;sprite_2;sprite_3;sprite_4	0.25
+

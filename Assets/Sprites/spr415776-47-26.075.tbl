@@ -1,0 +1,6 @@
+sprite_map	spr415776-47-26.075.png	0	0	12	12	0	0
+
+sprite_1	-	0	sprite_map	1	-
+
+sprite	sprite_1	0.25
+
